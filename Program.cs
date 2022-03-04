@@ -21,12 +21,12 @@ namespace PedraPapelTesouraVDD
                 Console.WriteLine("jogador 2, informe sua jogada (pedra, papel ou tesoura): ");
                 jogada2 = Console.ReadLine();
 
-                if (jogada1 == "pedra" & jogada2 == "tesoura" || jogada1 == "papel" & jogada2 == "pedra" || jogada1 == "tesoura" & jogada2 == "papel")
+                if (jogada1 == "pedra" && jogada2 == "tesoura" || jogada1 == "papel" && jogada2 == "pedra" || jogada1 == "tesoura" && jogada2 == "papel")
                 {
                     Console.WriteLine("Jogador1 é o ganhador");
                     alguemganhou = true;
                 }
-                else if (jogada2 == "pedra" & jogada1 == "tesoura" || jogada2 == "papel" & jogada1 == "pedra" || jogada2 == "tesoura" & jogada1 == "papel")
+                else if (jogada2 == "pedra" && jogada1 == "tesoura" || jogada2 == "papel" && jogada1 == "pedra" || jogada2 == "tesoura" && jogada1 == "papel")
                 {
                     Console.WriteLine("Jogador 2 é o ganhador");
                     alguemganhou = true;
