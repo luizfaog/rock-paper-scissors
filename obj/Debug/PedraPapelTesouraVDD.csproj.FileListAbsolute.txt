@@ -1,0 +1,7 @@
+C:\Users\Luis Felipe\source\repos\PedraPapelTesouraVDD\PedraPapelTesouraVDD\bin\Debug\PedraPapelTesouraVDD.exe.config
+C:\Users\Luis Felipe\source\repos\PedraPapelTesouraVDD\PedraPapelTesouraVDD\bin\Debug\PedraPapelTesouraVDD.exe
+C:\Users\Luis Felipe\source\repos\PedraPapelTesouraVDD\PedraPapelTesouraVDD\bin\Debug\PedraPapelTesouraVDD.pdb
+C:\Users\Luis Felipe\source\repos\PedraPapelTesouraVDD\PedraPapelTesouraVDD\obj\Debug\PedraPapelTesouraVDD.csproj.AssemblyReference.cache
+C:\Users\Luis Felipe\source\repos\PedraPapelTesouraVDD\PedraPapelTesouraVDD\obj\Debug\PedraPapelTesouraVDD.csproj.CoreCompileInputs.cache
+C:\Users\Luis Felipe\source\repos\PedraPapelTesouraVDD\PedraPapelTesouraVDD\obj\Debug\PedraPapelTesouraVDD.exe
+C:\Users\Luis Felipe\source\repos\PedraPapelTesouraVDD\PedraPapelTesouraVDD\obj\Debug\PedraPapelTesouraVDD.pdb
